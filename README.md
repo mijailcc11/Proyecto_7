@@ -1,2 +1,23 @@
 # Proyecto_7
-Tabla con abundancias relativas de filos eucariontes obtenidas del análisis del gen 16S rRNA en muestras de agua, ostión (Crassostrea virginica) y heces humanas de Chachalacas, Veracruz. Útil para estudios de diversidad microbiana y comparación entre ambientes.
+# Visualización interactiva de la composición bacteriana
+
+Esta aplicación web permite explorar de forma interactiva la composición relativa de géneros bacterianos presentes en diferentes tipos de muestras (como heces, agua y organismos acuáticos). Fue desarrollada como parte del análisis exploratorio de datos (EDA) en un estudio de microbiota.
+
+## Funcionalidad principal
+
+La app proporciona dos tipos de visualización, accesibles mediante casillas de verificación:
+
+- **Gráfico de barras 100% apiladas**: muestra la abundancia relativa de los 20 géneros más abundantes en cada muestra, con un diseño intuitivo que facilita la comparación visual entre condiciones.
+- **Gráfico de dispersión por género**: permite seleccionar un género bacteriano y observar su distribución relativa a lo largo de las diferentes muestras.
+
+Ambas gráficas son interactivas, están construidas con Plotly y son desplegadas usando Streamlit.
+
+## Cómo usarla
+
+1. Ejecuta `streamlit run app.py`.
+2. Marca una o ambas casillas para generar las visualizaciones.
+3. Interactúa con las gráficas para explorar las abundancias relativas.
+
+---
+
+Esta aplicación es útil para investigadores en microbiología, bioinformática o áreas afines que busquen visualizar rápidamente los resultados de un análisis de comunidades microbianas a nivel de género.
