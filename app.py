@@ -6,7 +6,7 @@ st.header("Visualización de la composición relativa de géneros bacterianos")
 
 # Cargar el archivo CSV
 df_top20_genus = pd.read_csv(
-    'C:/Users/Mijail/Documents/Python/TripleTen/Sprint 7/Proyecto_7/df_top20_genus.csv',
+    'df_top20_genus.csv',
     index_col=0
 )
 
