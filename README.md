@@ -3,6 +3,13 @@
 
 Esta aplicación web permite explorar de forma interactiva la composición relativa de géneros bacterianos presentes en diferentes tipos de muestras (como heces, agua y organismos acuáticos). Fue desarrollada como parte del análisis exploratorio de datos (EDA) en un estudio de microbiota.
 
+Este proyecto fue realizado en el contexto de una investigación doctoral en Ciencias Biológicas y de la Salud, desarrollada por **José Mijail Campos Compeán**.
+
+## Contacto
+
+📫 Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-mijail-campos-compean-30ba98121/) para más información o colaboración en proyectos relacionados.
+
+
 ## Funcionalidad principal
 
 La app proporciona dos tipos de visualización, accesibles mediante casillas de verificación:
